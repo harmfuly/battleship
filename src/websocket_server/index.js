@@ -35,7 +35,6 @@ wsServer.on('connection', (ws) => {
         
                 break;
 
-            
         }
     });
 
